@@ -74,20 +74,28 @@ Substitua SUA_URL_DO_SUPABASE e SUA_CHAVE_DO_SUPABASE pelas credenciais do seu p
 Estrutura do Projeto
 Copy
 /frontend
-├── src
-│   ├── components          # Componentes React
-│   ├── pages               # Páginas da aplicação
-│   ├── services            # Integração com o Supabase
-│   ├── App.tsx             # Componente principal
-│   ├── main.tsx            # Ponto de entrada da aplicação
-│   └── index.css           # Estilos globais
-├── public                  # Arquivos estáticos
-├── tailwind.config.js      # Configuração do Tailwind CSS
-├── postcss.config.cjs      # Configuração do PostCSS
-├── tsconfig.json           # Configuração do TypeScript
-├── vite.config.ts          # Configuração do Vite
-└── README.md               # Documentação do projeto
-Contribuição
+├── node_modules/            # Dependências do projeto (gerado automaticamente)
+├── public/                  # Arquivos estáticos (ex: imagens, ícones)
+│   └── vite.svg             # Ícone do Vite
+├── src/                     # Código-fonte do projeto
+│   ├── components/          # Componentes React
+│   │   └── Column.tsx       # Componente da coluna Kanban
+│   ├── App.tsx              # Componente principal da aplicação
+│   ├── main.tsx             # Ponto de entrada da aplicação
+│   ├── index.css            # Estilos globais
+│   └── App.css              # Estilos específicos do componente App
+├── .gitignore               # Arquivos e pastas ignorados pelo Git
+├── README.md                # Documentação do projeto
+├── package.json             # Dependências e scripts do projeto
+├── package-lock.json        # Versões exatas das dependências (gerado automaticamente)
+├── tailwind.config.js       # Configuração do Tailwind CSS
+├── postcss.config.cjs       # Configuração do PostCSS
+├── tsconfig.json            # Configuração do TypeScript
+├── tsconfig.app.json        # Configuração do TypeScript para a aplicação
+├── tsconfig.node.json       # Configuração do TypeScript para o Node.js
+├── vite.config.ts           # Configuração do Vite
+└── vite-env.d.ts            # Definições de tipos para o ViteContribuição
+
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
 Faça um fork do projeto.
