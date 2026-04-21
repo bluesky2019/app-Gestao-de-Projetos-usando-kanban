@@ -158,6 +158,7 @@ Licença: Informações sobre a licença do projeto.
 [![HUGGING FACE](https://img.shields.io/badge/HuggingFace-e5f21d?style=for-the-badge&logo=HuggingFace&logoColor=yellow)](https://huggingface.co/bluesky2019)
 [![KAGGLE](https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.kaggle.com/gilneiborges)
 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=FW4VNKJWXLTCJ)
 
 Se você gostou das minhas postagens e gostaria de contribuir com uma pequena doação, eu agradeceria! Tenha uma ótima semana. Siga meu link para os valores em dólares no PAYPAL: https://www.paypal.com/donate/?hosted_button_id=FW4VNKJWXLTCJ
 
